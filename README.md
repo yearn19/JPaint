@@ -1,7 +1,7 @@
 # 画图软件
 # java大作业画图软件，模仿微软Paint、PowerPoint（含报告、只因你太美动画）
 ##### 含报告、附送java文档、只因你太美动画（donghua49.txt）
-![](https://files.mdnice.com/user/35615/a6128ae7-ab2d-4d3f-b587-8e731ec04d3e.png)
+![2a091529fc4640368e14076556ebee7b](https://user-images.githubusercontent.com/86697514/211348749-567df441-2e32-47bc-b38f-0d235f54ae7b.png)
 ##### 开源不易，有用的话点个star
 
 ## 实现功能
@@ -60,16 +60,16 @@
 3）图形类包含Rectangle（直角矩形）、RoundRect（圆角矩形）、Brush（刷子）等等......所有细化图形类均为抽象类父类AbstractShape的子类。
 
 ##### 2.2使用流程图
-![](https://files.mdnice.com/user/35615/7d0ca42e-6d9a-47a6-9d2e-430edcba9d77.png)
+![957dcbb2d0a14a97b97e34836c21c55e](https://user-images.githubusercontent.com/86697514/211348818-656ae924-6f21-413e-b3ca-011e23614699.png)
 
 ## 软件展示
 #### 主页面
-![](https://files.mdnice.com/user/35615/f9173d3f-57c0-4264-a92f-0109ee04e4ba.png)
+![5b5dcc51517b45cb8c4ddcf94962f351](https://user-images.githubusercontent.com/86697514/211348860-d9eb7aac-e8d8-4bf3-8377-d0fc70a901a4.png)
 
-![](https://files.mdnice.com/user/35615/805b9524-2847-40fd-a2a2-fa48331bd12c.png)
+![f2f1fefb520e4a07b5758153f15c2fed](https://user-images.githubusercontent.com/86697514/211348898-aeff50eb-3221-4e8f-89aa-df75a99d2058.png)
 
 #### 动画截图（只因你太美）
-![](https://files.mdnice.com/user/35615/4ad2739a-0141-4989-b9ee-b92be70be474.png)
+![70be3e1beab94be4a1db015e26f5cf2f](https://user-images.githubusercontent.com/86697514/211348936-6d1868e9-af24-4d8c-b8a2-2d6b5516aedf.png)
 
 
 开发软件IDEA
@@ -82,15 +82,14 @@ JDK版本：17
 
 ## 如何加载只因你太美动画
 点击文件->打开->
-![](https://files.mdnice.com/user/35615/f7651f02-dd50-4af4-a594-244bb2bf92d6.png)
+![536cd6d670e74745b14ce0b76913c2fb](https://user-images.githubusercontent.com/86697514/211349002-2064cf72-fe92-47b6-9f34-ea16e1f50a79.png)
 
 
 找到donghua49.txt文件
-![](https://files.mdnice.com/user/35615/24ad57c8-2f01-4eeb-8316-7d4e1930aa74.png)
+![b1591defd07c4d379d986f03972b0103](https://user-images.githubusercontent.com/86697514/211349073-29c2efd6-f6df-4c64-91cc-7993a56317e7.png)
 
 文件类型选txt，打开（txt格式一定要选，不然打不开）
-![](https://files.mdnice.com/user/35615/0f5df4c9-7263-426f-a361-dedb851e1b3b.png)
-
+![bc705c61807e4bcd8eac5b3e00ff8310](https://user-images.githubusercontent.com/86697514/211349099-c1cadf2e-62b9-4253-ad12-7a7f99c5ed52.png)
 导入后，左侧播放速度填0.06，输入完一定要按回车，然后点击播放按钮即可，没有音乐
-![](https://files.mdnice.com/user/35615/35babde2-31db-4a9f-aca1-a5a60ab1cb1d.png)
+![6ee7a40443f54a83966b1c86693c7c79](https://user-images.githubusercontent.com/86697514/211349122-f531a4fd-fc80-408f-a6d0-7604f8fec4fa.png)
 
