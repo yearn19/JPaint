@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab786b53-fe3c-4309-af7e-a90b81847f21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2IFx7MJXbCvF0bLtbhLDsxFR8E2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StartProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpaint.start.StartProject" />
+      <module name="Jpaint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpaint.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartProject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab786b53-fe3c-4309-af7e-a90b81847f21" name="Default Changelist" comment="" />
+      <created>1669790963173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669790963173</updated>
+      <workItem from="1669790966209" duration="887000" />
+      <workItem from="1669800304064" duration="8979000" />
+      <workItem from="1669820226614" duration="673000" />
+      <workItem from="1673269325697" duration="233000" />
+      <workItem from="1673271601155" duration="2573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="69" key="#Project_Structure" timestamp="1669790973088">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="69" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1669790973088" />
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1669791290585">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1669791290585" />
+    <state x="499" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1669791819020">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1669791819020" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1669791665939">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1669791665939" />
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1673274864518">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673274864518" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1673274864518">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673274864518" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1673274864518">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673274864518" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1673274864518">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673274864518" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1669791853795">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1669791853795" />
+    <state x="461" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1669820226140">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="461" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1669820226140" />
+  </component>
+</project>
