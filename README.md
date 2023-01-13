@@ -3,6 +3,7 @@
 ##### 含报告、附送java文档、只因你太美动画（donghua49.txt）
 ![2a091529fc4640368e14076556ebee7b](https://user-images.githubusercontent.com/86697514/211348749-567df441-2e32-47bc-b38f-0d235f54ae7b.png)
 ##### 开源不易，有用的话点个star
+##### b站演示地址[https://www.bilibili.com/video/BV1iv4y1v7gx/?vd_source=3ddab8de3e8ea0ade0d26715bf892df7](https://www.bilibili.com/video/BV1iv4y1v7gx/?vd_source=3ddab8de3e8ea0ade0d26715bf892df7)
 
 ## 实现功能
 ##### 一、基本功能：
